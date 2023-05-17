@@ -20,3 +20,10 @@ The food ordering system is built using the following technologies:
 * Backend: Springboot
 * Database: MySQL, Redis
 * Payment Integration: Stripe
+
+## Usage
+* Register a new user account or log in with an existing account.
+* Browse through the menu and add items to your cart.
+* Review your cart and proceed to checkout.
+* Enter the required details and complete the payment.
+* Track your order status in the user dashboard.
