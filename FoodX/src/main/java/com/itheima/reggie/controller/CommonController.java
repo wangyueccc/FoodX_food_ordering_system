@@ -25,7 +25,7 @@ import java.util.UUID;
 @RequestMapping("/common")
 @Slf4j
 public class CommonController {
-    @Value("${reggie.path}")
+    @Value("${FoodX.path}")
     private String basePath;
 
     //变量名file必须和表单里name的名称一致
